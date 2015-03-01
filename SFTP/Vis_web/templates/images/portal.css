@@ -1,0 +1,432 @@
+.HeadBg {
+	
+}
+BODY {
+	
+}
+TD {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #333333; FONT-FAMILY: Tahoma
+}
+A {
+	TEXT-DECORATION: none
+}
+A.1 {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.t11 {
+	FONT-SIZE: 11px; FONT-STYLE: normal; FONT-FAMILY: Tahoma
+}
+.style1 {
+	FONT-SIZE: 10px; COLOR: #667c99
+}
+.style2 {
+	FONT-SIZE: 10px; COLOR: #ffffff
+}
+.style3 {
+	COLOR: #ffffff
+}
+.style4 {
+	COLOR: #333333
+}
+.style5 {
+	COLOR: #505050
+}
+.style6 {
+	COLOR: #667c99
+}
+.TabBg {
+	
+}
+.LeftPane {
+	
+}
+.ContentPane {
+	
+}
+.RightPane {
+	
+}
+.SelectedTab {
+	
+}
+A.SelectedTab:link {
+	
+}
+A.SelectedTab:visited {
+	
+}
+A.SelectedTab:active {
+	
+}
+A.SelectedTab:hover {
+	
+}
+.OtherTabs {
+	FONT-WEIGHT: bold; COLOR: #7b2612; TEXT-DECORATION: none
+}
+A.OtherTabs:link {
+	FONT-WEIGHT: bold; COLOR: #7b2612; TEXT-DECORATION: none
+}
+A.OtherTabs:visited {
+	FONT-WEIGHT: bold; COLOR: #7b2612; TEXT-DECORATION: none
+}
+A.OtherTabs:active {
+	FONT-WEIGHT: bold; COLOR: #eeeeee; TEXT-DECORATION: none
+}
+A.OtherTabs:hover {
+	FONT-WEIGHT: bold; COLOR: #cccccc; TEXT-DECORATION: none
+}
+.Head {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 3px; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial,  helvetica, sans-serif, Times New Roman
+}
+.SubHead {
+	
+}
+.SubSubHead {
+	
+}
+.Normal {
+	FONT-SIZE: 8pt; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; FONT-FAMILY: Verdana, Times New Roman,  Arial,  helvetica, sans-serif; align: justify
+}
+.Error_Message {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; PADDING-BOTTOM: 10px; COLOR: #ff0000; PADDING-TOP: 10px; FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif
+}
+.NormalTextBox {
+	
+}
+.NormalRed {
+	
+}
+.NormalBold {
+	
+}
+.CommandButton {
+	FONT-WEIGHT: bold
+}
+A.CommandButton:link {
+	
+}
+A.CommandButton:visited {
+	
+}
+A.CommandButton:active {
+	
+}
+A.CommandButton:hover {
+	
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #b80101; LINE-HEIGHT: 120%; FONT-FAMILY: Tahoma, verdana, arial, Times New Roman,  helvetica, sans-serif
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #b80101; LINE-HEIGHT: 150%; FONT-FAMILY: Tahoma, verdana, arial, Times New Roman,  helvetica, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #b80101; LINE-HEIGHT: 150%; FONT-FAMILY: Tahoma, verdana, arial, Times New Roman,  helvetica, sans-serif
+}
+H4 {
+	
+}
+H5 {
+	
+}
+DT {
+	
+}
+H6 {
+	
+}
+TFOOT {
+	
+}
+THEAD {
+	
+}
+TH {
+	
+}
+UNKNOWN {
+	FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #013da4; FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff3300; FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif; TEXT-DECORATION: none
+}
+SMALL {
+	
+}
+BIG {
+	
+}
+BLOCKQUOTE {
+	
+}
+PRE {
+	
+}
+UL LI {
+	
+}
+OL LI {
+	
+}
+OL OL LI {
+	
+}
+OL OL OL LI {
+	
+}
+HR {
+	
+}
+.Message {
+	
+}
+.ItemTitle {
+	
+}
+.ModuleTitle_MenuContainer {
+	
+}
+.ModuleTitle_MenuBar {
+	
+}
+.ModuleTitle_MenuItem {
+	
+}
+.ModuleTitle_MenuIcon {
+	
+}
+.ModuleTitle_SubMenu {
+	
+}
+.ModuleTitle_MenuBreak {
+	
+}
+.ModuleTitle_MenuItemSel {
+	
+}
+.ModuleTitle_MenuArrow {
+	
+}
+.ModuleTitle_RootMenuArrow {
+	
+}
+.MainMenu_MenuContainer {
+	
+}
+.MainMenu_MenuBar {
+	
+}
+.MainMenu_MenuItem {
+	
+}
+.MainMenu_MenuIcon {
+	
+}
+.MainMenu_SubMenu {
+	
+}
+.MainMenu_MenuBreak {
+	
+}
+.MainMenu_MenuItemSel {
+	
+}
+.MainMenu_MenuArrow {
+	
+}
+.MainMenu_RootMenuArrow {
+	
+}
+#left-nav {
+	FONT-SIZE: 9px; BACKGROUND: url(/portals/0/menubutton.jpg) repeat-y 0px 100%; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+#left-nav A {
+	TEXT-DECORATION: none
+}
+#left-nav A:hover {
+	BORDER-RIGHT: #739caf 1px solid; DISPLAY: block; MARGIN-LEFT: 0px; BORDER-LEFT: #739caf 1px solid; COLOR: #800000; MARGIN-RIGHT: 0px; TEXT-DECORATION: none
+}
+#left-nav A.active:hover {
+	BACKGROUND: url(/portals/0/menubutton.jpg) repeat-y 0px 100%; COLOR: #90978f; TEXT-DECORATION: none
+}
+.top-level A:visited {
+	COLOR: #414340; TEXT-DECORATION: none
+}
+.second-level A:visited {
+	COLOR: #800000; TEXT-DECORATION: none
+}
+.top-level-label {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; DISPLAY: block; PADDING-LEFT: 7px; FONT-WEIGHT: bold; BACKGROUND: #7d9ba9; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #414340; PADDING-TOP: 5px
+}
+.second-level-label {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; DISPLAY: block; PADDING-LEFT: 17px; FONT-WEIGHT: normal; BACKGROUND: #ebebeb; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #000; PADDING-TOP: 5px
+}
+.third-level-label {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; DISPLAY: block; PADDING-LEFT: 30px; FONT-WEIGHT: normal; BACKGROUND: #ebebeb; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+.fourth-level-label {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; DISPLAY: block; PADDING-LEFT: 40px; FONT-WEIGHT: normal; BACKGROUND: #f1f1f1; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+.top-level A {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px
+}
+.second-level A {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; DISPLAY: block; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px
+}
+.third-level A {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; DISPLAY: block; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px
+}
+.fourth-level A {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; DISPLAY: block; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px
+}
+.top-level A {
+	PADDING-LEFT: 7px; FONT-WEIGHT: bold; BACKGROUND: url(/portal/portals/0/menubutton.jpg) repeat-y 0px 100%; COLOR: #414340
+}
+.second-level A {
+	PADDING-LEFT: 17px; FONT-WEIGHT: normal; BACKGROUND: #ebebeb; COLOR: #000000
+}
+.third-level A {
+	PADDING-LEFT: 30px; FONT-WEIGHT: normal; BACKGROUND: #ebebeb; COLOR: #000000
+}
+.separate-column {
+	BACKGROUND: #daebf3
+}
+A.activeParent {
+	BACKGROUND: url(/portal/portals/0/menubutton.jpg) repeat-y 0px 100%; COLOR: #90978f
+}
+A.activeChild {
+	BACKGROUND: #d6ecd1; COLOR: #000
+}
+#bodyText {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-SIZE: 11pt; PADDING-BOTTOM: 3px; LINE-HEIGHT: 140%; PADDING-TOP: 5px; FONT-FAMILY: Times New Roman,  Verdana,  Arial,  helvetica, sans-serif; TEXT-ALIGN: justify
+}
+#bodyText2 {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 30px; FONT-SIZE: 100%; PADDING-BOTTOM: 10px; LINE-HEIGHT: 130%; PADDING-TOP: 10px; FONT-FAMILY: Verdana, Times New Roman,  Arial,  helvetica, sans-serif; TEXT-ALIGN: justify
+}
+#bodyText3 {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 50px; FONT-SIZE: 11pt; PADDING-BOTTOM: 10px; LINE-HEIGHT: 150%; PADDING-TOP: 10px; FONT-FAMILY: Times New Roman, Verdana,  Arial,  helvetica, sans-serif; align: justify
+}
+#bodyText4 {
+	PADDING-RIGHT: 100px; PADDING-LEFT: 100px; FONT-SIZE: 8.5pt; PADDING-BOTTOM: 10px; LINE-HEIGHT: 130%; PADDING-TOP: 10px; FONT-FAMILY: Verdana, Times New Roman,  Arial,  helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.bgXanhNhat {
+	BACKGROUND: #ebebeb
+}
+.bgImage1 {
+	BACKGROUND: url(/Portals/0/bg1.gif) 0px 100%
+}
+.table-wrap {
+	WIDTH: 100%
+}
+.basic-table {
+	TEXT-ALIGN: justify
+}
+.basic-table TD {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.3em
+}
+.basic-table TH {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.3em; TEXT-ALIGN: left
+}
+TABLE TR.dark TD {
+	FONT-WEIGHT: bold; BACKGROUND: #69c; COLOR: #fff; FONT-FAMILY: arial, Times New Roman, verdana, helvetica, sans-serif
+}
+TABLE TR.gray {
+	BACKGROUND: #ddd
+}
+TABLE TR.gray TD {
+	COLOR: #000
+}
+TD.date {
+	WHITE-SPACE: nowrap
+}
+TD.number {
+	TEXT-ALIGN: right
+}
+.FormButton {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.12em; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT-COLOR: #fff; BACKGROUND-IMAGE: url(/common/TOPBACK.gif); BORDER-BOTTOM-COLOR: #fff; PADDING-BOTTOM: 0.1em; COLOR: #6c92b7; BORDER-TOP-STYLE: solid; BORDER-TOP-COLOR: #fff; PADDING-TOP: 0.12em; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; HEIGHT: 23px; TEXT-ALIGN: center; BORDER-RIGHT-COLOR: #fff; BORDER-BOTTOM-STYLE: solid
+}
+A.LinkButtonDark {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: black; LINE-HEIGHT: 150%; FONT-FAMILY: Tahoma, Times New Roman, Arial, helvetica, sans-serif
+}
+A.LinkButtonLight {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: white; LINE-HEIGHT: 150%; FONT-FAMILY: Tahoma, Times New Roman, Arial, helvetica, sans-serif
+}
+.twt-menu2a {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; WIDTH: 8px; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #333333
+}
+.twt-menu1a {
+	BORDER-RIGHT: #dae5ef 1px solid; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #dfd4b1; TEXT-ALIGN: left
+}
+.twt-menText1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; MARGIN: 0px; COLOR: #000000; PADDING-TOP: 2px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Content {
+	FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: Times New Roman,Verdana, Arial, helvetica, sans-serif
+}
+.imgArticle {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Times New Roman, Arial, helvetica, sans-serif
+}
+.article_table_bg {
+	BACKGROUND: #fff
+}
+.article_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000; FONT-FAMILY: Arial,Tahoma,Verdana, Times New Roman,    helvetica, sans-serif
+}
+.article_title_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #ff3300; FONT-FAMILY: Arial,Tahoma,Verdana, Times New Roman,    helvetica, sans-serif
+}
+.article_title_small {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; BORDER-LEFT: 0px; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; FONT-FAMILY: Tahoma, Verdana, Times New Roman,  Arial,  helvetica, sans-serif
+}
+.article_focus_frame {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.frame_border {
+	BORDER-RIGHT: #aab6ba 1px solid; DISPLAY: block; BACKGROUND: #ebebeb; BORDER-BOTTOM: #aab6ba 1px solid
+}
+.category_title {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND-IMAGE: url(/common/line_03.gif); PADDING-BOTTOM: 2px; WIDTH: 100%; COLOR: #ff3300; PADDING-TOP: 6px; FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif; HEIGHT: 26px; TEXT-DECORATION: underline
+}
+.category_titlex {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND-IMAGE: url(/common/TOPBACK.gif); PADDING-BOTTOM: 2px; WIDTH: 100%; PADDING-TOP: 2px; FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif; HEIGHT: 21px
+}
+.article_description {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 120%; FONT-FAMILY: Arial, helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.article_description_bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Tahoma,Arial, helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.category_title_focus {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #000; PADDING-BOTTOM: 2px; WIDTH: 100%; PADDING-TOP: 2px; FONT-FAMILY: Arial,Tahoma,Verdana, Times New Roman,    helvetica, sans-serif
+}
+.article_description_focus {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Tahoma, helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.article_content {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.article_link {
+	FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT-FAMILY: Tahoma,Verdana, Times New Roman,  Arial,  helvetica, sans-serif
+}
+.article_other_news {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: Tahoma, Verdana, Times New Roman,  Arial,  helvetica, sans-serif; help: 
+}
+.clsMainStaticshop {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.clsMainStaticN {
+	FONT-SIZE: 8pt; COLOR: #6c92b7; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.clsMainMenu {
+	COLOR: #d1e1ef
+}
+.clsMenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #667c99; WIDTH: 100%; COLOR: #6c92b7; PADDING-TOP: 5px; FONT-FAMILY: Tahoma; HEIGHT: 23px; TEXT-DECORATION: none
+}
+.clsTitle {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; COLOR: #fff; FONT-FAMILY: Tahoma
+}

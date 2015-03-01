@@ -1,0 +1,14 @@
+how to install the package:
+1. Create a database called "ftVine".
+2. Import into this database using the file 
+./sql/ftVine.sql
+
+3. Configure the website SQL connection in
+./dblink.php
+./backend/functions/dblink.php
+
+to match the configuration of the server.
+./backend/backup/dbinfo.php 
+for the backup to run properly
+
+
